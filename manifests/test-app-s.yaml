@@ -4,7 +4,6 @@ metadata:
   labels:
     app: test-app
   name: test-app
-  namespace: monitoring
 spec:
   type: NodePort
   ports:
